@@ -16,6 +16,3 @@
 [submodule "dotfiles/nvim"]
 	url = https://github.com/lolife3/nvim
 	active = true
-[submodule "nvim"]
-	url = https://github.com/lolife3/nvim
-	active = true
