@@ -1,7 +1,0 @@
-[submodule "tmux"]
-	path = tmux
-	url = https://github.com/lolife3/tmux
-[submodule "nvim"]
-	path = nvim
-	url = https://github.com/lolife3/nvim
-
