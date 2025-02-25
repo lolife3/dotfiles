@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/home/bambus/.config/tmux'
+let g:netrw_dirhist_9='/var/log'
+let g:netrw_dirhist_8='/etc/ssl/private'
+let g:netrw_dirhist_7='/etc/ssl'
+let g:netrw_dirhist_6='/etc'
+let g:netrw_dirhist_5='/etc/kernel'
+let g:netrw_dirhist_4='/etc'
+let g:netrw_dirhist_3='/'
+let g:netrw_dirhist_2='/home'
+let g:netrw_dirhist_1='/home/bambus'
