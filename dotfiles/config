@@ -4,11 +4,11 @@
 	bare = true
 [status]
 	showUntrackedFiles = no
-[remote "origin"]
+[remote "gitlab"]
 	url = https://localhost/local_group/dotfiles.git
-	fetch = +refs/heads/*:refs/remotes/origin/*
+	fetch = +refs/heads/*:refs/remotes/gitlab/*
 [branch "Main"]
-	remote = origin
+	remote = gitlab
 	merge = refs/heads/Main
 [submodule "dotfiles/nvim"]
 	active = true
@@ -16,3 +16,6 @@
 [submodule "dotfiles/tmux"]
 	active = true
 	url = https://github.com/lolife3/tmux
+[remote "origin"]
+	url = https://github.com/lolife3/dotfiles.git
+	fetch = +refs/heads/*:refs/remotes/origin/*

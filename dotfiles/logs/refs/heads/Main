@@ -12,3 +12,4 @@ f59d0bd2b93f68f469451b7a83f65133a46a3135 4144e820dbb14755586df9e3feab23d838b5ad6
 70c69b6bcd85e8f770928aace31b3da076788469 added8e61b00d671683bc04ef94700b4ee0d355e bambus <makara.biznes@gmail.com> 1740451851 +0100	commit: remove viminfo
 added8e61b00d671683bc04ef94700b4ee0d355e 73e386a344a43bc3bf8e85888bb92537d31b940d bambus <makara.biznes@gmail.com> 1740451912 +0100	commit: remove .gitmodules
 73e386a344a43bc3bf8e85888bb92537d31b940d 70230ed5bb4b8545b0f4045afce1f9910a5538b6 bambus <makara.biznes@gmail.com> 1740452212 +0100	commit: remove gitmodules
+d1c254ab22023de957964dcaeb6d460c5099a693 ae06934bca5dbcbf9ad9ba9445e2ff6dc9875f47 bambus <makara.biznes@gmail.com> 1740455183 +0100	reset: moving to ae06934bca5dbcbf9ad9ba9445e2ff6dc9875f47
