@@ -1,0 +1,2 @@
+-- install nvidia drivers
+sudo sh /Downloads/NVIDIA-Linux-x86_64-565.77.run --module-signing-secret-key=/etc/ssl/private/my_private_key.pem --module-signing-public-key=/etc/ssl/certs/my_public_cert.der
