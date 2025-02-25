@@ -1,0 +1,10 @@
+#!/bin/bash
+
+file="/$HOME/txtfiles/apt-reqs.txt"
+
+if [ -f "$file" ]; then
+  rm "$file"
+  echo "$file (old file has been removed)"
+fi
+
+apt-mark showmanual >> $file

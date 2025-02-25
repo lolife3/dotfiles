@@ -1,0 +1,18 @@
+#!/bin/bash
+
+usage() {
+	echo "Usage: install-apt-reqs <path/file.txt>"
+	exit 1; 
+}
+
+case "$#" in
+	0)
+		usage
+		;;
+	1)
+		xargs -a $1 sudo apt-get install -y
+		;;
+	*)
+		usage
+		;;
+esac
